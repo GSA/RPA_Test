@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "i4GlVH+lpEDy+UUWMaZK/lrXe0VMuivmGw+1yhsn1IEdWI8ilxYEDvyBnqxqwoDorTy47w5RbP75PLWBYKUO1g==",
+  "dgSpecHash": "YI9RZyLkjLwHEv3M7sK6NgImt4b8JKMJyZG78MVazEfMD8d0dzsdn5JTeiaRphEn+EAivBKIlrjJA9zhJXxBGA==",
   "success": true,
-  "projectFilePath": "H:\\GitHub\\RPA_Test1\\RPA test\\.local\\",
+  "projectFilePath": "H:\\GitHub\\rpa test\\RPA test\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\JonathanRSmith\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\JonathanRSmith\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",

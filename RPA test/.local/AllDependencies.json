@@ -5876,9 +5876,9 @@
     "restore": {
       "projectUniqueName": "RPA test",
       "projectName": "RPA test",
-      "projectPath": "H:\\GitHub\\RPA_Test1\\RPA test\\.local",
+      "projectPath": "H:\\GitHub\\rpa test\\RPA test\\.local",
       "packagesPath": "C:\\Users\\JonathanRSmith\\.nuget\\packages\\",
-      "outputPath": "H:\\GitHub\\RPA_Test1\\RPA test\\.local"
+      "outputPath": "H:\\GitHub\\rpa test\\RPA test\\.local"
     },
     "frameworks": {
       "net461": {
